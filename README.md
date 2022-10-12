@@ -1,0 +1,2 @@
+# FlutterMockerServer
+json-serverで作ったモックのデータをFlutterでhttp通信を行なって取得してみる。
